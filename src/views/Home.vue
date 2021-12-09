@@ -236,7 +236,7 @@ export default {
       } else if ([20, 29, 30, 31].includes(codeNum)) {
         status = '沙尘暴'
         imgUrl = require('@/assets/sandy.png')
-      } else if(codeNum >= 5 && codeNum <= 56) {
+      } else if(codeNum >= 53 && codeNum <= 56) {
         status = '雾霾'
         imgUrl = require('@/assets/hazy.png')
       }
