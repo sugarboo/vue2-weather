@@ -1,6 +1,6 @@
 # vue2-weather
 
-> 基于[Vue](https://so.csdn.net/so/search?from=pc_blog_highlight&q=Vue) 2.x + Vue Router + Vant的移动端实时天气网站。数据来源于气象大数据平台提供的免费试用产品集：[中国气象数据_天气数据接口-气象大数据平台](http://www.weatherdt.com/datadetail.html?code=9e3a049c-4b4b-4820-84bd-5ea8ae02e54d)。
+> 基于Vue 2.x + Vue Router + Vant的移动端实时天气网站。数据来源于气象大数据平台提供的免费试用产品集：[中国气象数据_天气数据接口-气象大数据平台](http://www.weatherdt.com/datadetail.html?code=9e3a049c-4b4b-4820-84bd-5ea8ae02e54d)。
 
 
 
