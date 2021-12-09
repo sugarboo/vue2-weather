@@ -200,7 +200,7 @@ const routes = [
 
 
 
-### /src/App.vue：挂载<router-view>；设置全局样式
+### /src/App.vue：挂载router-view；设置全局样式
 
 ```vue
 <template>
