@@ -15,12 +15,12 @@ cd vue2-weather
 
 # 安装依赖(推荐使用yarn)
 yarn
-或
+## 或
 npm install
 
 # 启动服务(推荐使用yarn)
 yarn serve
-或
+## 或
 npm run serve
 ```
 
@@ -313,12 +313,6 @@ export default {
   }
 }
 </script>
-
-<style lang="less" scoped>
-.main {
-  margin-top: 16px;
-}
-</style>
 ```
 
 
